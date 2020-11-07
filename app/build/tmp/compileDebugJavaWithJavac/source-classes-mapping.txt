@@ -1,0 +1,48 @@
+com/pmadera/mascotas/pojo/Mascota.java
+ com.pmadera.mascotas.pojo.Mascota
+com/pmadera/mascotas/BuildConfig.java
+ com.pmadera.mascotas.BuildConfig
+com/pmadera/mascotas/iMainActivity.java
+ com.pmadera.mascotas.iMainActivity
+com/pmadera/mascotas/adapter/MascotaAdaptadorPerfil.java
+ com.pmadera.mascotas.adapter.MascotaAdaptadorPerfil
+ com.pmadera.mascotas.adapter.MascotaAdaptadorPerfil$MascotaPerfilViewHolder
+com/pmadera/mascotas/db/ConstantesDB.java
+ com.pmadera.mascotas.db.ConstantesDB
+com/pmadera/mascotas/adapter/PageAdapter.java
+ com.pmadera.mascotas.adapter.PageAdapter
+com/pmadera/mascotas/vista_fragment/FavoritosFragment.java
+ com.pmadera.mascotas.vista_fragment.FavoritosFragment
+com/pmadera/mascotas/vista_fragment/PerfilFragment.java
+ com.pmadera.mascotas.vista_fragment.PerfilFragment
+com/pmadera/mascotas/adapter/MascotaAdaptadorFavoritos.java
+ com.pmadera.mascotas.adapter.MascotaAdaptadorFavoritos
+ com.pmadera.mascotas.adapter.MascotaAdaptadorFavoritos$MascotaFavoritaViewHolder
+com/pmadera/mascotas/ContactoActivity.java
+ com.pmadera.mascotas.ContactoActivity
+ com.pmadera.mascotas.ContactoActivity$1
+com/pmadera/mascotas/AcercaActivity.java
+ com.pmadera.mascotas.AcercaActivity
+com/pmadera/mascotas/adapter/MascotaAdaptador.java
+ com.pmadera.mascotas.adapter.MascotaAdaptador
+ com.pmadera.mascotas.adapter.MascotaAdaptador$1
+ com.pmadera.mascotas.adapter.MascotaAdaptador$MascotaViewHolder
+com/pmadera/mascotas/MainActivity.java
+ com.pmadera.mascotas.MainActivity
+ com.pmadera.mascotas.MainActivity$1
+com/pmadera/mascotas/presentador/iMainActivityPresenter.java
+ com.pmadera.mascotas.presentador.iMainActivityPresenter
+com/pmadera/mascotas/FavoritosActivity.java
+ com.pmadera.mascotas.FavoritosActivity
+com/pmadera/mascotas/presentador/FavoritosFragmentPresenter.java
+ com.pmadera.mascotas.presentador.FavoritosFragmentPresenter
+com/pmadera/mascotas/presentador/mainActivityPresenter.java
+ com.pmadera.mascotas.presentador.mainActivityPresenter
+com/pmadera/mascotas/presentador/iFavoritosFragmentPresenter.java
+ com.pmadera.mascotas.presentador.iFavoritosFragmentPresenter
+com/pmadera/mascotas/vista_fragment/iFavoritosFragment.java
+ com.pmadera.mascotas.vista_fragment.iFavoritosFragment
+com/pmadera/mascotas/db/BaseDatos.java
+ com.pmadera.mascotas.db.BaseDatos
+com/pmadera/mascotas/db/ConstructorMascotas.java
+ com.pmadera.mascotas.db.ConstructorMascotas
